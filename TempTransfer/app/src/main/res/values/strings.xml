@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TempTransfer</string>
+    <string name="input_temp"></string>
+    <string name="send">轉換</string>
+    <string name="show">華氏溫度</string>
+    <string name="temp">攝氏溫度</string>
+</resources>
